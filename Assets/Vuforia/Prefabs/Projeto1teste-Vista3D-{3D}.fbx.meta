@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 7ea74c0bc1a8fc3458b04f3835221e2a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: M_Fixo 0610 x 0610mm [329460]
+    100002: M_Fixo 0915 x 1830mm [329683]
+    100004: M_Fixo 0915 x 1830mm [329796]
+    100006: M_Fixo 0915 x 1830mm [329914]
+    100008: M_Fixo 0915 x 1830mm [329994]
+    100010: M_Fixo 0915 x 1830mm [330096]
+    100012: M_Fixo 0915 x 1830mm [330244]
+    100014: "M_Folha \xFAnica 0915 x 2134mm [325862]"
+    100016: "M_Folha \xFAnica 0915 x 2134mm [328537]"
+    100018: "M_Folha \xFAnica 0915 x 2134mm [328601]"
+    100020: "M_Folha \xFAnica 0915 x 2134mm [328892]"
+    100022: "M_Folha \xFAnica 0915 x 2134mm [329050]"
+    100024: "Parede b\xE1sica Gen\xE9rico - 200 mm [324430]"
+    100026: "Parede b\xE1sica Gen\xE9rico - 200 mm [324502]"
+    100028: "Parede b\xE1sica Gen\xE9rico - 200 mm [324626]"
+    100030: "Parede b\xE1sica Gen\xE9rico - 200 mm [324691]"
+    100032: "Parede b\xE1sica Gen\xE9rico - 200 mm [325743]"
+    100034: "Parede b\xE1sica Gen\xE9rico - 200 mm [327218]"
+    100036: "Parede b\xE1sica Gen\xE9rico - 200 mm [327543]"
+    100038: "Parede b\xE1sica Gen\xE9rico - 200 mm [327702]"
+    100040: "Piso Gen\xE9rico 150 mm [324301]"
+    100042: "Piso Gen\xE9rico 150 mm [324751]"
+    100044: //RootNode
+    100046: 'Vista 3D: {3D}'
+    400000: M_Fixo 0610 x 0610mm [329460]
+    400002: M_Fixo 0915 x 1830mm [329683]
+    400004: M_Fixo 0915 x 1830mm [329796]
+    400006: M_Fixo 0915 x 1830mm [329914]
+    400008: M_Fixo 0915 x 1830mm [329994]
+    400010: M_Fixo 0915 x 1830mm [330096]
+    400012: M_Fixo 0915 x 1830mm [330244]
+    400014: "M_Folha \xFAnica 0915 x 2134mm [325862]"
+    400016: "M_Folha \xFAnica 0915 x 2134mm [328537]"
+    400018: "M_Folha \xFAnica 0915 x 2134mm [328601]"
+    400020: "M_Folha \xFAnica 0915 x 2134mm [328892]"
+    400022: "M_Folha \xFAnica 0915 x 2134mm [329050]"
+    400024: "Parede b\xE1sica Gen\xE9rico - 200 mm [324430]"
+    400026: "Parede b\xE1sica Gen\xE9rico - 200 mm [324502]"
+    400028: "Parede b\xE1sica Gen\xE9rico - 200 mm [324626]"
+    400030: "Parede b\xE1sica Gen\xE9rico - 200 mm [324691]"
+    400032: "Parede b\xE1sica Gen\xE9rico - 200 mm [325743]"
+    400034: "Parede b\xE1sica Gen\xE9rico - 200 mm [327218]"
+    400036: "Parede b\xE1sica Gen\xE9rico - 200 mm [327543]"
+    400038: "Parede b\xE1sica Gen\xE9rico - 200 mm [327702]"
+    400040: "Piso Gen\xE9rico 150 mm [324301]"
+    400042: "Piso Gen\xE9rico 150 mm [324751]"
+    400044: //RootNode
+    400046: 'Vista 3D: {3D}'
+    2000000: 'Vista 3D: {3D}'
+    2100000: No Name
+    2300000: M_Fixo 0610 x 0610mm [329460]
+    2300002: M_Fixo 0915 x 1830mm [329683]
+    2300004: M_Fixo 0915 x 1830mm [329796]
+    2300006: M_Fixo 0915 x 1830mm [329914]
+    2300008: M_Fixo 0915 x 1830mm [329994]
+    2300010: M_Fixo 0915 x 1830mm [330096]
+    2300012: M_Fixo 0915 x 1830mm [330244]
+    2300014: "M_Folha \xFAnica 0915 x 2134mm [325862]"
+    2300016: "M_Folha \xFAnica 0915 x 2134mm [328537]"
+    2300018: "M_Folha \xFAnica 0915 x 2134mm [328601]"
+    2300020: "M_Folha \xFAnica 0915 x 2134mm [328892]"
+    2300022: "M_Folha \xFAnica 0915 x 2134mm [329050]"
+    2300024: "Parede b\xE1sica Gen\xE9rico - 200 mm [324430]"
+    2300026: "Parede b\xE1sica Gen\xE9rico - 200 mm [324502]"
+    2300028: "Parede b\xE1sica Gen\xE9rico - 200 mm [324626]"
+    2300030: "Parede b\xE1sica Gen\xE9rico - 200 mm [324691]"
+    2300032: "Parede b\xE1sica Gen\xE9rico - 200 mm [325743]"
+    2300034: "Parede b\xE1sica Gen\xE9rico - 200 mm [327218]"
+    2300036: "Parede b\xE1sica Gen\xE9rico - 200 mm [327543]"
+    2300038: "Parede b\xE1sica Gen\xE9rico - 200 mm [327702]"
+    2300040: "Piso Gen\xE9rico 150 mm [324301]"
+    2300042: "Piso Gen\xE9rico 150 mm [324751]"
+    3300000: M_Fixo 0610 x 0610mm [329460]
+    3300002: M_Fixo 0915 x 1830mm [329683]
+    3300004: M_Fixo 0915 x 1830mm [329796]
+    3300006: M_Fixo 0915 x 1830mm [329914]
+    3300008: M_Fixo 0915 x 1830mm [329994]
+    3300010: M_Fixo 0915 x 1830mm [330096]
+    3300012: M_Fixo 0915 x 1830mm [330244]
+    3300014: "M_Folha \xFAnica 0915 x 2134mm [325862]"
+    3300016: "M_Folha \xFAnica 0915 x 2134mm [328537]"
+    3300018: "M_Folha \xFAnica 0915 x 2134mm [328601]"
+    3300020: "M_Folha \xFAnica 0915 x 2134mm [328892]"
+    3300022: "M_Folha \xFAnica 0915 x 2134mm [329050]"
+    3300024: "Parede b\xE1sica Gen\xE9rico - 200 mm [324430]"
+    3300026: "Parede b\xE1sica Gen\xE9rico - 200 mm [324502]"
+    3300028: "Parede b\xE1sica Gen\xE9rico - 200 mm [324626]"
+    3300030: "Parede b\xE1sica Gen\xE9rico - 200 mm [324691]"
+    3300032: "Parede b\xE1sica Gen\xE9rico - 200 mm [325743]"
+    3300034: "Parede b\xE1sica Gen\xE9rico - 200 mm [327218]"
+    3300036: "Parede b\xE1sica Gen\xE9rico - 200 mm [327543]"
+    3300038: "Parede b\xE1sica Gen\xE9rico - 200 mm [327702]"
+    3300040: "Piso Gen\xE9rico 150 mm [324301]"
+    3300042: "Piso Gen\xE9rico 150 mm [324751]"
+    4300000: "Piso Gen\xE9rico 150 mm [324301]"
+    4300002: "Parede b\xE1sica Gen\xE9rico - 200 mm [324430]"
+    4300004: "Parede b\xE1sica Gen\xE9rico - 200 mm [324502]"
+    4300006: "Parede b\xE1sica Gen\xE9rico - 200 mm [324626]"
+    4300008: "Parede b\xE1sica Gen\xE9rico - 200 mm [324691]"
+    4300010: "Piso Gen\xE9rico 150 mm [324751]"
+    4300012: "Parede b\xE1sica Gen\xE9rico - 200 mm [325743]"
+    4300014: "M_Folha \xFAnica 0915 x 2134mm [325862]"
+    4300016: "Parede b\xE1sica Gen\xE9rico - 200 mm [327218]"
+    4300018: "Parede b\xE1sica Gen\xE9rico - 200 mm [327543]"
+    4300020: "Parede b\xE1sica Gen\xE9rico - 200 mm [327702]"
+    4300022: "M_Folha \xFAnica 0915 x 2134mm [328537]"
+    4300024: M_Fixo 0610 x 0610mm [329460]
+    4300026: M_Fixo 0915 x 1830mm [329683]
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
